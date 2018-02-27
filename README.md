@@ -1,4 +1,4 @@
 # ICS2O-R-RWebpage
 My topic is Lunix(TinyCore)
 
-[CLICK ME]http://spirtliora.github.io/ICS2O-R-RWebpage/TinyCore.html
+{click me}http://spirtliora.github.io/ICS2O-R-RWebpage/TinyCore.html
